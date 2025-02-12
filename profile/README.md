@@ -1,6 +1,9 @@
 # Project Screenshots
-some information obfuscated for security.
 <details>
+<summary>Dropdown for screenshots</summary>
+
+some information obfuscated for security.
+  
 ## Azure DevOps
 <img src="https://github.com/TerrorismAnalyticsBureau/.github/blob/main/profile/screenshots/1.png">
 
