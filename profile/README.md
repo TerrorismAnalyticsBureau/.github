@@ -33,7 +33,7 @@ some information obfuscated for security.
 ## Script for frontend data retreival
 <img src="https://github.com/TerrorismAnalyticsBureau/.github/blob/main/profile/screenshots/9.png">
 
-# Microsoft fabric for Power BI
+## Microsoft fabric for Power BI
 <img src="https://github.com/TerrorismAnalyticsBureau/.github/blob/main/profile/screenshots/11.png">
 
 ## Frontend display
