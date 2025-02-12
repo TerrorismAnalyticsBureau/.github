@@ -1,4 +1,7 @@
-# Project Screenshots
+# Terrorism Analytics Bureau
+Development by Andujar Brutus
+
+Documentation by Tanner Velzy
 <details>
 <summary>Dropdown for screenshots</summary>
 
