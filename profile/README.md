@@ -1,5 +1,6 @@
 # Project Screenshots
 some information obfuscated for security.
+<details>
 ## Azure DevOps
 <img src="https://github.com/TerrorismAnalyticsBureau/.github/blob/main/profile/screenshots/1.png">
 
@@ -33,7 +34,7 @@ some information obfuscated for security.
 <img src="https://github.com/TerrorismAnalyticsBureau/.github/blob/main/profile/screenshots/10.png">
 
 
-
+</details>
 
 
 
